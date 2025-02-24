@@ -1,0 +1,21 @@
+akiec – Actinic keratosis (Keratoses actínicas):
+
+Lesões benignas na pele, frequentemente causadas pela exposição crônica ao sol. Elas são consideradas pré-cancerosas e podem evoluir para câncer de pele, como o carcinoma espinocelular.
+bcc – Basal Cell Carcinoma (Carcinoma basocelular):
+
+Tipo de câncer de pele mais comum. Ele geralmente se desenvolve nas camadas mais profundas da pele e é considerado um dos tipos de câncer de pele menos agressivos. Pode se espalhar se não tratado, mas tende a crescer lentamente.
+bkl – Benign Keratosis (Keratoses benignas):
+
+Lesões benignas, como verrugas, que geralmente são indolores e não se transformam em câncer. Contudo, é importante observar para garantir que não se transformem em lesões malignas.
+df – Dermatofibroma:
+
+Lesão benigna na pele composta por fibras de colágeno. Geralmente é indolor e aparece como um nódulo pequeno, firme e escuro.
+mel – Melanoma:
+
+Tipo de câncer de pele mais agressivo. O melanoma se origina nas células que produzem melanina (melanócitos). Este tipo de câncer pode se espalhar rapidamente para outras partes do corpo, por isso é essencial diagnosticá-lo e tratá-lo precocemente.
+nv – Nevus (ou Nevo melanocítico):
+
+São as "sardas" ou "pintas" comuns, que são geralmente benignas. No entanto, qualquer mudança em sua aparência pode ser um sinal de alerta para câncer de pele, como o melanoma.
+vasc – Vascular lesions (Lesões vasculares):
+
+Lesões causadas por vasos sanguíneos dilatados ou alterados, como os hemangiomas (marcas de nascença vermelhas ou roxas) e outros tipos de lesões vasculares benignas.
